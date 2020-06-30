@@ -1,0 +1,3 @@
+[submodule "VEML6030py"]
+	path = VEML6030py
+	url = https://github.com/n8many/VEML6030py.git
